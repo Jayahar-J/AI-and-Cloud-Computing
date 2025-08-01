@@ -23,5 +23,5 @@ Travel Planner Agent is an AI-based assistant that helps users plan trips effici
 
 - capstone project powerpoint presention file
 - final output pdf file
-- Research AI agent built from IBM cloud and exported as ipynb file
+- travel agent built from IBM cloud and exported as ipynb file
 
